@@ -1,0 +1,3 @@
+C:\Users\jele\Documents\10_repo\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.exe
+C:\Users\jele\Documents\10_repo\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.dll
+C:\Users\jele\Documents\10_repo\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.Views.dll
